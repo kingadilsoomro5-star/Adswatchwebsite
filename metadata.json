@@ -1,0 +1,6 @@
+{
+  "name": "PakInvest Pro - Investment & Earning Platform",
+  "description": "Daily ads watch and task earning platform with ₨ 3 PKR rewards per ad, official WhatsApp channel verification, and fast ₨ 300 PKR minimum withdrawals to Easypaisa and JazzCash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
